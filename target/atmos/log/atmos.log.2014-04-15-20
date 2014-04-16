@@ -1,0 +1,14 @@
+2014-04-15 20:24:43,464 INFO  [akka.event.slf4j.Slf4jEventHandler] [] [] : Slf4jEventHandler started
+2014-04-15 20:24:43,493 INFO  [akka.event.slf4j.Slf4jEventHandler] [] [] : Slf4jEventHandler started
+2014-04-15 20:24:43,495 INFO  [ab] [ActorSystem(Ab)] [Ab-akka.actor.default-dispatcher-5] : *** No license available. Defaulting to in-memory persistence. ***
+2014-04-15 20:24:43,534 INFO  [akka://iobridge-8660/user/io-bridge] [akka://iobridge-8660/user/io-bridge] [iobridge-8660-4] : akka://iobridge-8660/user/io-bridge started
+2014-04-15 20:24:43,686 INFO  [akka://Ab/user/http-server-8660] [akka://Ab/user/http-server-8660] [Ab-akka.actor.default-dispatcher-3] : akka://Ab/user/http-server-8660 started on localhost/127.0.0.1:8660
+2014-04-15 20:24:43,690 INFO  [akka.event.slf4j.Slf4jEventHandler] [] [] : Slf4jEventHandler started
+2014-04-15 20:24:43,712 INFO  [akka.event.slf4j.Slf4jEventHandler] [] [] : Slf4jEventHandler started
+2014-04-15 20:48:35,911 INFO  [akka.event.slf4j.Slf4jEventHandler] [] [] : Slf4jEventHandler started
+2014-04-15 20:48:35,938 INFO  [akka.event.slf4j.Slf4jEventHandler] [] [] : Slf4jEventHandler started
+2014-04-15 20:48:35,942 INFO  [ab] [ActorSystem(Ab)] [Ab-akka.actor.default-dispatcher-4] : *** No license available. Defaulting to in-memory persistence. ***
+2014-04-15 20:48:35,982 INFO  [akka://iobridge-8660/user/io-bridge] [akka://iobridge-8660/user/io-bridge] [iobridge-8660-4] : akka://iobridge-8660/user/io-bridge started
+2014-04-15 20:48:36,144 INFO  [akka://Ab/user/http-server-8660] [akka://Ab/user/http-server-8660] [Ab-akka.actor.default-dispatcher-3] : akka://Ab/user/http-server-8660 started on localhost/127.0.0.1:8660
+2014-04-15 20:48:36,147 INFO  [akka.event.slf4j.Slf4jEventHandler] [] [] : Slf4jEventHandler started
+2014-04-15 20:48:36,173 INFO  [akka.event.slf4j.Slf4jEventHandler] [] [] : Slf4jEventHandler started

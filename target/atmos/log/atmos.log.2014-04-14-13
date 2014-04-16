@@ -1,0 +1,9 @@
+2014-04-14 13:50:28,943 INFO  [akka.event.slf4j.Slf4jEventHandler] [] [] : Slf4jEventHandler started
+2014-04-14 13:50:28,971 INFO  [akka.event.slf4j.Slf4jEventHandler] [] [] : Slf4jEventHandler started
+2014-04-14 13:50:28,980 INFO  [ab] [ActorSystem(Ab)] [Ab-akka.actor.default-dispatcher-4] : *** No license available. Defaulting to in-memory persistence. ***
+2014-04-14 13:50:29,018 INFO  [akka://iobridge-8660/user/io-bridge] [akka://iobridge-8660/user/io-bridge] [iobridge-8660-4] : akka://iobridge-8660/user/io-bridge started
+2014-04-14 13:50:29,168 INFO  [akka.event.slf4j.Slf4jEventHandler] [] [] : Slf4jEventHandler started
+2014-04-14 13:50:29,170 INFO  [akka://Ab/user/http-server-8660] [akka://Ab/user/http-server-8660] [Ab-akka.actor.default-dispatcher-3] : akka://Ab/user/http-server-8660 started on localhost/127.0.0.1:8660
+2014-04-14 13:50:29,192 INFO  [akka.event.slf4j.Slf4jEventHandler] [] [] : Slf4jEventHandler started
+2014-04-14 13:59:13,085 WARN  [akka://iobridge-8660/user/io-bridge] [akka://iobridge-8660/user/io-bridge] [iobridge-8660-4] : Write error: closing connection due to java.io.IOException: Broken pipe
+2014-04-14 13:59:34,009 WARN  [akka://Ab/user/http-server-8660] [akka://Ab/user/http-server-8660] [Ab-akka.actor.default-dispatcher-14] : Cannot dispatch aDv as response (part) for GET request to '/monitoring/actor?rolling=10minutes&minChunks=10&formatTimestamps=off&node=my-project&maxChunks=10' since current response state is 'Completed' but should be 'Uncompleted'

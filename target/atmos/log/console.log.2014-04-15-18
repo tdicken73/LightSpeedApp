@@ -1,0 +1,3 @@
+2014-04-15 18:03:15,960 INFO  [play] [] [] : Application started (b)
+2014-04-15 18:03:16,111 INFO  [play] [] [] : Listening for HTTP on /0:0:0:0:0:0:0:0:9900
+2014-04-15 18:05:15,581 INFO  [akka.event.slf4j.Slf4jEventHandler] [] [] : Slf4jEventHandler started
